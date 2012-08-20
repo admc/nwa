@@ -1,4 +1,4 @@
-# NWA -- Node Web Apps, quick starter
+# NWA -- Node Web App, quick starter
 
 ## Authors
 
@@ -7,6 +7,10 @@
 ## License
 
   * License - Apache 2: http://www.apache.org/licenses/LICENSE-2.0
+
+## Update node to latest
+
+http://nodejs.org/#download
 
 ## Usage
 
