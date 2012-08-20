@@ -96,7 +96,5 @@ server.listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
 });" > app.js
 
-echo "\n\033[0;32mWe have done all the things, starting your '$1' server! \033[0m\n";
-echo "\n\033[0;32mAfter you kill this process, you can start your app again with 'node app.js'.\033[0m\n";
-
-node app.js
+echo "\n\033[0;32mWe have done all the things, your app '$1' is ready.. \033[0m\n";
+echo "\n\033[0;32m'cd $1', then 'node app.js'.\033[0m\n";
