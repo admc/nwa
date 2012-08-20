@@ -11,6 +11,8 @@
 ## Usage
 
 <pre>
+git clone https://github.com/admc/nwa
+cd nwa
 sh nwa.sh 'appname'
 </pre>
 
